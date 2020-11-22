@@ -1,0 +1,7 @@
+README.md
+setup.py
+superstar.egg-info/PKG-INFO
+superstar.egg-info/SOURCES.txt
+superstar.egg-info/dependency_links.txt
+superstar.egg-info/top_level.txt
+superstars/__init__.py
