@@ -32,5 +32,5 @@ Output:
 
 This package is under **MIT License** copyright @<a href = "https://github.com/Aniket762">Aniket Pal</a>     
 
-## Github Repo
- <a href="https://github.com/Aniket762/superstar">Here</a>
+## PyPI module
+<a href  = https://pypi.org/project/superstar/0.1/">Here</a>
